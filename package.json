@@ -1,7 +1,7 @@
 {
-    "name": "koa-http-proxy-middleware",
+    "name": "koa-http-proxy-middleware-fix",
     "version": "0.0.2",
-    "description": "koa-http-proxy-middleware",
+    "description": "koa-http-proxy-middleware-fix",
     "main": "build/index.js",
     "scripts": {
         "start:build": "npm run tsc && node build",
@@ -31,7 +31,7 @@
     },
     "keywords": [
         "typescript",
-        "koa-http-proxy-middleware",
+        "koa-http-proxy-middleware-fix",
         "koa",
         "proxy"
     ],
