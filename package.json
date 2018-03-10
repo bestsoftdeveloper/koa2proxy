@@ -1,6 +1,6 @@
 {
     "name": "koa-http-proxy-middleware-fix",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "koa-http-proxy-middleware-fix",
     "main": "build/index.js",
     "scripts": {
